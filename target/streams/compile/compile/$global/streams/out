@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/erinkavanaugh/bradfield/bradfield/src/main/scala/example/GraphSearch.scala:8:18: identifier expected but 'val' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    println(node.val)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

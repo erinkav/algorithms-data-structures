@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/erinkavanaugh/.sbt/boot/scala-2.12.6/lib/scala-library.jar -classpath /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes /Users/erinkavanaugh/bradfield/bradfield/src/main/scala/example/GraphSearch.scala

@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/bradfield_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/GraphSearch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/GraphSearch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/TreeTraversals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/TreeTraversals$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/ListTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/ListTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Tree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Tree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/TreeTraversals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/TreeTraversals.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Power$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/Power$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/minTreeDepth$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/minTreeDepth$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Tree$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Tree$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Power.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/Power.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/minTreeDepth.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/minTreeDepth.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Graph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/ListNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/ListNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Graph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/erinkavanaugh/bradfield/bradfield/target/scala-2.12/classes/example/Graph$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
