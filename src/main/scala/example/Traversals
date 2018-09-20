@@ -1,0 +1,42 @@
+package example
+
+import scala.collection.mutable.ListBuffer
+import scala.collection.mutable.PriorityQueue
+import scala.collection.mutable.Map
+
+object GraphTraversals {
+
+  def networkDelayTime(times: List[List[Int]], N: Int, K: Int): Int = {
+    //    N Nodes from 1 -> N
+    //    given a list of travel times where u is the source node, v the target node and w the travel times
+    //    K is the node that it starts as
+    //    How long until all nodes recieve a signal
+
+  }
+
+
+  def calculateDistances(graph: Map[String, Any], startingVertex: Int): Int = {
+    val distances = graph.forEach(vertex => {
+      Float.PositiveInfinity
+    })
+    println(distances)
+    val pq = PriorityQueue()
+    distances(startingVertex) = 0
+
+    val entryLookup = Map[String, Any]()
+    val pq = ListBuffer[Any]()
+
+    for ((vertex, distance) <- distances) {
+      println(vertex, distance)
+      val entry = (distance, vertex)
+      entryLookup(vertex) = entry
+
+    }
+
+    while(pq.size > 0) {
+      val currentDistance, currentVertext = pq(pq.size - 1)
+
+    }
+
+  }
+}
